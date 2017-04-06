@@ -1,0 +1,34 @@
+{
+  "id": "6ee72dd8-7cff-66ee-e8f1-2a83dccdc440",
+  "name": "token generation",
+  "values": [
+    {
+      "enabled": true,
+      "key": "username",
+      "value": "satheeshv25@mailinator.com",
+      "type": "text"
+    },
+    {
+      "enabled": true,
+      "key": "password",
+      "value": "autoSuite@25",
+      "type": "text"
+    },
+    {
+      "enabled": true,
+      "key": "clientId",
+      "value": "oLXcXnpbxq84WLIMKbAgRlHBPq0a",
+      "type": "text"
+    },
+    {
+      "enabled": true,
+      "key": "clientSecret",
+      "value": "PteTFNyWMpyog0RlHn5YkVfsVBoa",
+      "type": "text"
+    }
+  ],
+  "timestamp": 1490866420895,
+  "_postman_variable_scope": "environment",
+  "_postman_exported_at": "2017-03-30T09:33:49.235Z",
+  "_postman_exported_using": "Postman/4.10.3"
+}

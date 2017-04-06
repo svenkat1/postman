@@ -1,0 +1,64 @@
+{
+  "id": "015116d7-cea1-b5dc-0998-fe8e07311b7f",
+  "name": "UIapi's data",
+  "values": [
+    {
+      "enabled": true,
+      "key": "accountTId",
+      "value": "58b3adfae4b072f01f436d70",
+      "type": "text"
+    },
+    {
+      "enabled": true,
+      "key": "period",
+      "value": "30",
+      "type": "text"
+    },
+    {
+      "enabled": true,
+      "key": "pageSize",
+      "value": "10",
+      "type": "text"
+    },
+    {
+      "enabled": true,
+      "key": "pageIndex",
+      "value": "1",
+      "type": "text"
+    },
+    {
+      "enabled": true,
+      "key": "entity",
+      "value": "vehicles",
+      "type": "text"
+    },
+    {
+      "enabled": true,
+      "key": "sortBy",
+      "value": "-crtdDt",
+      "type": "text"
+    },
+    {
+      "enabled": true,
+      "key": "sortFields",
+      "value": "name",
+      "type": "text"
+    },
+    {
+      "enabled": true,
+      "key": "pvt",
+      "value": "{ \"loc\": [12.99333333, 80.24777778], \"alt\": 50, \"speed\": 60, \"heading\": 280,\"pvtDt\" : \"{{date}}\"}",
+      "type": "text"
+    },
+    {
+      "enabled": true,
+      "key": "entityFilter",
+      "value": "asset",
+      "type": "text"
+    }
+  ],
+  "timestamp": 1490882206042,
+  "_postman_variable_scope": "environment",
+  "_postman_exported_at": "2017-03-30T13:56:50.133Z",
+  "_postman_exported_using": "Postman/4.10.3"
+}
